@@ -12,16 +12,20 @@ dateCreated: 2024-03-10T17:45:31.912Z
 If you're reading this, it's because I've shared my Plex library with you. You likely have some questions. *I recommend reading through this all first before going through the setup.*
 
 - **What is Plex?**
+
 Plex is a media server that I run on my own system, you connect to my system through Plex's servers. All the content is content that I have downloaded, and you are accessing from my system. You have access to over 500 movies (with some 4k options available) and over 200 TV shows, as well as a small Anime collection and a growing Standup collection. 
 ![2024-03-10_13-49_3.png](/2024-03-10_13-49_3.png)
 
 - **Is it safe?**
+
 Yes. I've already checked all the files and ensured they're safe, and there's nothing that could happen to you. Me and my family have been using Plex for close to a decade now without any issues or harm. I'm assuming all of the risk. 
 
 - **Why use this versus streaming services?**
+
 Everything in one spot, for one. Also, I've found streaming services kind of suck depending on device your streaming on. Plex is consistent. Also, Plex has a shuffle button. Try it out, especially on shows you've seen more than once. It's a nice way to say "I want to watch an episode of this, but I don't care which one, or if they're in order". I use it with Family Guy and American Dad to fall asleep, and with Psych when I work from home. 
 
 - **I'm in**
+
 Sweet. If you haven't yet given me your email address, I would do so now, so I can invite you. 
 
 # Get Started
