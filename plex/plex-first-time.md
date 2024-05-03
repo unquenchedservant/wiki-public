@@ -31,6 +31,7 @@ Check your email. You got an email from noreply@plex.tv with the subject "You've
 *Don't worry, you're not sharing media with me, and the only way that could happen is if you download and setup a server. You'd know.*
 
 It will look like this: 
+
 ![image.png](/image_1.png)
 
 Press "I accept the invitation"
