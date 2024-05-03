@@ -55,12 +55,14 @@ Finally, click on the "Player" tab and uncheck "Normalize Multi-channel Audio"
 
 Now, click on the home button in the top left corner, and you'll see the "Plex Web Setup" page, with a list of pinned sources. Uncheck everything that isn't "4k Movies" "Movies" "Stand Up" "Anime" or "TV Shows". All of the rest of it isn't something that I've shared with you. 
 ![2024-03-10_13-21_1.png](/2024-03-10_13-21_1.png)
+
 These, and "Watchlist" at the top are not something I've shared, and will just make your Plex experience confusing. 
 
 Once you've unchecked Watchlist, Playlists, Live TV, Movies & Shows, Discover and Music, press "Finish Setup". 
 
 Next up, it will ask if you want to Share your Watch History. I highly recommend setting it to Private by clicking on the dropdown. 
 ![2024-03-10_13-23_1.png](/2024-03-10_13-23_1.png)
+
 Press Accept once you've set it to your preference, again, I would set it to Private. 
 
 And now you can browse everything I have to offer. 
@@ -81,8 +83,10 @@ Let me know (not directly, it's not you, but I will likely forget about it). You
 
 Fill out the pop-up form based on what the issue is, like so: 
 ![2024-03-10_13-40_1.png](/2024-03-10_13-40_1.png)
+
 *Note how I added detail that showed why I think it's the file that's the issue? Video stuttering halfway through could be because of network connection, but if it happens at the same point on multiple devices, it's likely the file that's bad.* 
 
-Alternatively, you can do this directly on Plex. On the page for the episode or Movie that has an issue, click the three dot button and select "Report Issue..." from the resulting dropdown. 
+Alternatively, you can do this directly on Plex. On the page for the episode or Movie that has an issue, click the three dot button and select "Report Issue..." from the resulting dropdown.
+
 ![2024-03-10_13-43_3.png](/2024-03-10_13-43_3.png)
 ![2024-03-10_13-44_1.png](/2024-03-10_13-44_1.png)
