@@ -30,7 +30,7 @@ Sweet. If you haven't yet given me your email address, I would do so now, so I c
 Check your email. You got an email from noreply@plex.tv with the subject "You've been invited to share some media in Plex" 
 *Don't worry, you're not sharing media with me, and the only way that could happen is if you download and setup a server. You'd know.*
 
-It will look like this (i've since updated the email that you've been invited by. It's now "plex@jthornenj.com", don't worry, that's me: 
+It will look like this: 
 ![image.png](/image_1.png)
 
 Press "I accept the invitation"
