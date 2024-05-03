@@ -74,10 +74,6 @@ If you did the above on your phone, you likely have the Plex app. Unfortunately,
 Plex is also available on all major streaming devices. 
 
 Settings wiki page coming soon
-## Visit requests.jonthorne.com
-Sign in with your Plex account at https://requests.jonthorne.com/ and you'll be able to request TV shows and Movies. I can't promise I'll add everything, and if I notice people haven't watched something in a while, and it's not something I want otherwise on my server, I will delete it. 
-
-All emails for requests.jonthorne.com come from my jonathanthorne13@gmail.com email address (which is otherwise dead, I don't check it)
 
 ## Notice an issue with content? 
 Let me know (not directly, it's not you, but I will likely forget about it). You have two options. You can find the item on https://requests.jonthorne.com/ and click on the yellow "Report Issue" button on the right hand side.
